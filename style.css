@@ -36,8 +36,8 @@ body{
     background-color: var(--neutral-darkgray);
     display:flex;
     flex-direction: column;
-    max-width:24em;
-    min-height:37.5em;
+    width:24em;
+    height:38em;
     justify-content: space-around;
     align-items: center;    
     border-radius: 10px;
